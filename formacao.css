@@ -1,0 +1,41 @@
+/*Trabalho da aluna Ana Gabriella de Abreu Botelho Guimarães RU 4254629*/
+body {
+    background-color: #E3DAD5;
+    font-family: serif;
+    font-size: 14px;
+    text-align: justify;
+    color:  #707C4F;
+}
+
+header {
+    background-color: #E3DAD5;
+    padding: 10px 0;
+}
+
+nav a {
+    font-size: 16px;
+    text-transform: lowercase;
+    color: #707C4F;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.form h2 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #707C4F;
+}
+
+.form p {
+    font-weight: normal;
+    font-size: 20px;
+    color: #707C4F;
+}
